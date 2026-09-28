@@ -3,16 +3,6 @@
 
 💻 Flutter Developer | React | Node.js | TypeScript
 
-🚀 Currently working on...
-
-🛠️ Tech Stack
-
-📊 GitHub Stats
-
-🔥 GitHub Streak
-
-💻 Most Used Languages
-
 📫 Connect with me
 ![Adnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adnanjamal18&show_icons=true&theme=tokyonight)
 
